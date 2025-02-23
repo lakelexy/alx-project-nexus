@@ -31,9 +31,12 @@ The **ProDev Frontend Engineering** program is an intensive, hands-on training d
 - Implementing **responsive design** to support multiple devices and screen sizes.
 - Using **Git and GitHub** effectively for version control and collaboration.
 - Understanding the **importance of testing** with Jest and React Testing Library.
+- Peer Reviews: Engage in regular code reviews to boost quality and learn from each other.
+- Continuous Learning: Stay updated with evolving frontend and backend trends.
+- Effective Debugging: Utilize debugging tools and logs to resolve issues quickly.
 
 ## Collaboration - Key for Success
-### Who to Collaborate With?
+### Who I Collaborate With
 - **Fellow ProDev Frontend Learners**: Share ideas, organize coding sessions, and learn together.
 - **ProDev Backend Learners**: Work closely with backend engineers to integrate APIs and build full-stack applications.
 
@@ -41,36 +44,4 @@ The **ProDev Frontend Engineering** program is an intensive, hands-on training d
 - **Dedicated Discord Channel: #ProDevProjectNexus**
   - Connect with both frontend and backend learners.
   - Exchange ideas, ask questions, and stay updated with announcements.
-
-## Contribution Guidelines
-Want to contribute or discuss topics? Feel free to open an issue or submit a pull request. Collaboration is encouraged to maximize learning and growth!
-
-## Repository Structure
-```
-├── README.md  # Project documentation
-├── docs/       # Additional documentation and resources
-├── projects/   # Hands-on projects and implementation examples
-└── assets/     # Images and assets for documentation
-```
-
-## Get Started
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/alx-project-nexus.git
-   ```
-2. Navigate into the directory:
-   ```sh
-   cd alx-project-nexus
-   ```
-3. Explore the documentation and contribute!
-
----
-
-📌 **Note:** This repository is continuously updated with new learnings and experiences from the ProDev Frontend Engineering journey.
-
-Happy coding and learning! 🚀
-
----
-
-**GitHub Repository:** [alx-project-nexus](https://github.com/your-username/alx-project-nexus)
 
